@@ -3,7 +3,9 @@ _Pixel art by [Kirokaze](https://www.instagram.com/kirokaze/)._
 
 ---
 
-<h1 align="center">Heya👋, Samuel here!</h1>
+<h3 align="center">Heya👋, Samuel here!</h3>
+
+---
 
 <!--
 **TipoSamuel/TipoSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
